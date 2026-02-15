@@ -24,10 +24,10 @@ go build -o crx2md .
 
 ```bash
 # From Chrome Web Store URL
-crx2md convert https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid
+crx2md convert {url}
 
 # From extension ID
-crx2md convert khncfooichmfjbepaaaebmommgaepoid
+crx2md convert zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 # From local .crx or .zip file
 crx2md convert extension.crx
