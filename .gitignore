@@ -14,7 +14,7 @@ crx2md
 vendor/
 
 # etc
-internal/
+.internal/
 
 # IDE
 .idea/
